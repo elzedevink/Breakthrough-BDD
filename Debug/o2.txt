@@ -1,0 +1,130 @@
+
+
+Printing boards: initial board
+To move: white
+--------
+B, B, 
+_, _, 
+W, W, 
+--------
+Done: CreateWinningBoardsWhite()
+Done: CreateWinningBoardsBlack()
+
+Partial relations have a total of 152 BDD nodes
+Done: CreateMoveRelation()
+Total relation has 8.19e+03 board tuples and 188 BDD nodes
+
+Start: StoppedFixPointBFS()
+Done: StoppedFixPointBFS()
+
+Reachable boards count:           46 (80 nodes)
+Maximum queue size: 0 BDD nodes
+Winning boards White: 16
+Winning boards Black: 5
+
+
+Printing boards: white start
+To move: black
+--------
+_, W, 
+_, B, 
+_, _, 
+--------
+To move: black
+--------
+W, _, 
+_, B, 
+_, _, 
+--------
+To move: black
+--------
+_, W, 
+B, _, 
+_, _, 
+--------
+To move: black
+--------
+W, _, 
+B, _, 
+_, _, 
+--------
+To move: black
+--------
+_, W, 
+_, B, 
+_, W, 
+--------
+To move: black
+--------
+W, B, 
+_, B, 
+_, W, 
+--------
+To move: black
+--------
+B, W, 
+_, B, 
+_, W, 
+--------
+To move: black
+--------
+W, _, 
+B, _, 
+_, W, 
+--------
+To move: black
+--------
+W, B, 
+B, _, 
+_, W, 
+--------
+To move: black
+--------
+B, W, 
+B, _, 
+_, W, 
+--------
+To move: black
+--------
+_, W, 
+_, B, 
+W, _, 
+--------
+To move: black
+--------
+W, B, 
+_, B, 
+W, _, 
+--------
+To move: black
+--------
+B, W, 
+_, B, 
+W, _, 
+--------
+To move: black
+--------
+W, _, 
+B, _, 
+W, _, 
+--------
+To move: black
+--------
+W, B, 
+B, _, 
+W, _, 
+--------
+To move: black
+--------
+B, W, 
+B, _, 
+W, _, 
+--------
+Start: RetrogradeRel()
+End: RetrogradeRel()
+Winning boards White final: 32
+Winning boards Black final: 11
+
+Geen overlap in winnende boards
+starting pos: 
+No winner from this position.

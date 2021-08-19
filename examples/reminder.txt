@@ -1,0 +1,13 @@
+Partial relations have a total of 268 BDD nodes
+Total relation has 9.83e+05 board tuples and 404 BDD nodes
+
+
+Reachable boards count:         3786 (911 nodes)
+Maximum queue size: 0 BDD nodes
+Number of winning boards White: 458
+Number of winning boards Black: 209
+Deadlock: 109592
+Before: 458
+true
+false
+After: 1224
